@@ -1,0 +1,87 @@
+form {
+  display: flex;
+  gap: 1rem;
+  justify-items: center;
+}
+
+input {
+  border: none;
+  border-radius: 4px;
+  padding: 6px;
+}
+
+input:last-child {
+  background: #5c2037;
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  background: #a11d4f;
+  height: 100%;
+}
+
+.input {
+  padding: 1rem 0;
+}
+
+.stocks {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  gap: 1rem;
+}
+
+.stocks h2 {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 0;
+  background: #db3172;
+  color: white;
+}
+
+.symbols {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  gap: 1rem;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.load {
+  border: none;
+  border-radius: 4px;
+  background: #5c2037;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  align-self: flex-end;
+}
+
+.symbols a {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background: #db3172;
+  width: 48%;
+  padding: 2rem 0;
+  gap: 1rem;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.symbols li {
+  list-style: none;
+}
