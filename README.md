@@ -86,7 +86,7 @@
 
 <!-- > Add a link to your video project. -->
 
-<a href="https://www.loom.com/share/15131936398e4c0397663968e4bc0e8c?sid=3244ce95-7795-46cf-aea9-afdbd3e0828c">Get an understanding of the project by watching this video</a>
+<a href="https://www.loom.com/share/334a88326480466caf125bd00035b6a1?sid=75e481b5-6205-4137-b98c-f568596af054">Get an understanding of the project by watching this video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +207,7 @@ If you like this project:thumbsup:
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
-Thanks to Microverse for this amazing project and Nelson Sakwa on Behance.
+Thanks to Microverse for this amazing project and <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa on Behance.</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
