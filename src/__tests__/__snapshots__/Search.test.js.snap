@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search should dispatch getSearchResult when symbols array is empty 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <a
+      aria-current="page"
+      class="back active"
+      href="/"
+    >
+      <i
+        class="bi bi-arrow-left-circle"
+      />
+    </a>
+    <h2>
+      Search Results
+    </h2>
+    <h4
+      class="container"
+    >
+       Your search item doesn't exist
+    </h4>
+  </div>
+</div>
+`;

@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  background: #a11d4f;
+  height: 100vh;
+}
+
+.container a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.listItems li {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  color: white;
+  background: #db3172;
+  width: 47%;
+  padding: 2rem 0;
+}
+
+.listItems a {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background: #db3172;
+  width: 48%;
+  padding: 2rem 0;
+  gap: 1rem;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container h2 {
+  color: white;
+}
+
+.back {
+  align-self: flex-start;
+  padding: 1rem 0 0 1rem;
+}
+
+.listItems {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 1rem;
+  gap: 1rem;
+}
