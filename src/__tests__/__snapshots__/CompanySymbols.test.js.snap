@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompanySymbols renders correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="input"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        placeholder="Search..."
+        type="text"
+        value=""
+      />
+      <input
+        type="submit"
+        value="search"
+      />
+    </form>
+  </div>
+  <div
+    className="stocks"
+  >
+    <h2>
+      <i
+        className="bi bi-bar-chart-steps"
+      />
+      Stocks
+    </h2>
+    <div
+      className="symbols"
+    >
+      <div
+        className="btnContainer"
+      >
+        <button
+          className="load"
+          onClick={[Function]}
+          type="button"
+        >
+          Load More
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  background: #a11d4f;
+  height: 100%;
+  color: white;
+  padding: 6px;
+}
+
+.container h2 {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 0;
+  background: #db3172;
+  width: 100%;
+}
+
+.back {
+  align-self: flex-start;
+  padding: 1rem 0 0 1rem;
+  border: none;
+  background: none;
+  color: white;
+}
+
+.listItems ul:nth-child(2n) {
+  width: 100vw;
+  background: #db3172;
+}
+
+.listItems li {
+  list-style: none;
+}
